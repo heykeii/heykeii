@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im studying and building my github profile<br>
+Web Developer<br>
 
 
 ## 🌐 Socials:
